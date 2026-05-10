@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Paleta principal (dark theme) -->
+    <color name="bg_dark">#0D0D0F</color>
+    <color name="surface">#1A1A1F</color>
+    <color name="accent">#00E5A0</color>
+    <color name="text_primary">#F0F0F5</color>
+    <color name="text_secondary">#888899</color>
+
+    <!-- Pantalla de bloqueo -->
+    <color name="lock_bg">#070710</color>
+    <color name="lock_text_primary">#FFFFFF</color>
+    <color name="lock_text_secondary">#8888AA</color>
+    <color name="lock_text_hint">#555566</color>
+    <color name="lock_divider">#2A2A3A</color>
+</resources>
